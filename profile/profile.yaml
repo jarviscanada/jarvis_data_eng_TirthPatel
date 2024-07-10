@@ -91,7 +91,7 @@ professional_experience:
   - title: "Front End Developer"
     company: "DTran"
     duration: "2020"
-    description: "During my tenure at DTran, I converted design pages and components into web implementations using HTML, CSS, and JavaScript. Additionally, I analyzed UI/UX designs to ensure responsive layouts, enhancing usability and user experience. This involved meticulous attention to detail and a strong understanding of front-end development and design principles."
+    description: "Automated our AI algorithm evaluation process, crucial to our product suite, by creating CI/CD pipelines with Jenkins, BASH, and Python. I then containerized this system as a microservice for on-demand execution via API requests, integrating it into our Kubernetes-based cloud environment. This reduced manual work by over 5 hours and enabled algorithm teams to self-evaluate efficiently"
 
 #List of edcuation
 education: 
