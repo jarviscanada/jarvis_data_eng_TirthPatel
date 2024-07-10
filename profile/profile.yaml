@@ -48,6 +48,11 @@ jarvis_projects:
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: "Implemented an automation tool to help Linux Cluster Administration teams monitor hardware specifications and resource usage information of the nodes and servers within their Linux clusters. The collected data is stored in a database, enabling efficient storage and retrieval. The technologies used to implement this solution include Bash scripting, PostgreSQL, Docker, and Git. This solution supports informed decision-making for resource planning, ensuring optimal performance and scalability of the cluster."
+  - name: "RDBMS"
+    git_url: "/sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "This project serves to demonstrate the use of SQL to gain valuable insights from the data saved on RDBMS instances. Developers and BSA can use this tool to practice building efficient queries, that extracts valuable data for their reports or software applications. The technologies used in this project include Docker, PostgreSQL, Git, Bash."
 # List of personal or academic projects
 # Feel free to add more projects
 highlighted_projects:
@@ -82,11 +87,11 @@ professional_experience:
   - title: "Front End Developer"
     company: "Tenders2Bid"
     duration: "2020-2021"
-    description: ""
+    description: "Collaboratively, I worked with a global team to develop and extend a bidding web platform. I implemented features and functionalities using ReactJS (React Router and Redux), REST APIs, SASS, and JSON. I conducted bug fixes, performed code reviews, and maintained code quality. I played a key role in enhancing the platform's user experience."
   - title: "Front End Developer"
     company: "DTran"
     duration: "2020"
-    description: ""
+    description: "Converted design pages and components into web implementations using HTML, CSS, and JavaScript. I also analyzed UI/UX designs to ensure responsive layouts and improve overall usability."
 
 #List of edcuation
 education: 
