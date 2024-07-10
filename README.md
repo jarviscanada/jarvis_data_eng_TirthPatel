@@ -7,4 +7,3 @@
 6. [Hadoop/Hive](./hadoop) In-progress
 7. [Spark/Scala](./spark) In-progress
 8. [Cloud/DevOps](./cloud_devops) In-progress
-

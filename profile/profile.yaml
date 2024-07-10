@@ -1,0 +1,107 @@
+# Preferred name (Characters only)
+name: "Tirth Patel"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_TirthPatel
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: "I am a recent computer science graduate from Ontario Tech University with a passion for using technology to help others. I have around two years of software development industry experience from various contract and internship opportunities in both startup and corporate environments. These opportunities, along with my curiosity to learn new technologies has helped me gain skills in multiple areas within software development, including web development, mobile development, cloud computing, DevOps, and artificial intelligence. I use these skills to focus on projects and work experiences that prioritize helping others and enhance their lives by solving their problems."
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - "Spring Boot"
+    - Python
+    - Linux/Bash
+    - Javascript
+    - ReactJS
+    - RDBMS/SQL
+    - NoSQL
+    - Agile/Scrum
+    - Git
+  # At least 5 skills
+  competent:
+    - Jenkins
+    - Flutter
+    - Dart
+    - Docker
+    - Kubernetes
+    - Openshift
+    - NodeJS
+    - Postman
+  # At least 5 skills
+  familiar:
+    - GraphQL
+    - FastAPI
+    - Kafka
+    - TravisCI
+    - ArgoCD
+    - "Amazon S3"
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Implemented an automation tool to help Linux Cluster Administration teams monitor hardware specifications and resource usage information of the nodes and servers within their Linux clusters. The collected data is stored in a database, enabling efficient storage and retrieval. The technologies used to implement this solution include Bash scripting, PostgreSQL, Docker, and Git. This solution supports informed decision-making for resource planning, ensuring optimal performance and scalability of the cluster."
+  - name: "RDBMS"
+    git_url: "/sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "This project serves to demonstrate the use of SQL to gain valuable insights from the data saved on RDBMS instances. Developers and BSA can use this tool to practice building efficient queries, that extracts valuable data for their reports or software applications. The technologies used in this project include Docker, PostgreSQL, Git, Bash."
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "HireVis"
+    #URL is optional
+    git_url: "https://github.com/dev-tirth14/HireVis"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Created a personalized job search tool developed to streamline the process of finding relevant job postings for job seekers. This Spring Boot application leverages the power of Large Language Models (OpenAI), JSoup web scraping, and MySQL to automate the job search process by fetching, ranking, and storing job listings that match the user's profile and preferences. This automation reduced the time job seekers manually spend filtering relevant job postings, allowing them to get more throughput while applying."
+  - name: "Rendezvous"
+    git_url: "https://github.com/dev-tirth14/Rendezvous"
+    description: "Spearheaded the implementation of a social media Android application for event finders and organizers. Registered users can host events or find local events using the interactive map view that they can RSVP themselves for. To create this application, I used Flutter, Firebase for the backend and database, and the Google Maps API. This application aims to bring the community together and increase the number of local activities for residents."
+  - name: "Expensify"
+    git_url: "https://github.com/dev-tirth14/Expensify"
+    description: "Implemented a web application for tracking everyday expenses. This application was created using a ReactJS front end, including React Router and Redux, and a Firebase back end. Users are able to monitor their everyday expenses better, helping them get more transparency and control over their spending habits."
+
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "MLOps Engineer"
+    company: "IBM"
+    duration: "2021-2022"
+    description: "Automated our AI algorithm evaluation process, crucial to our product suite, by creating CI/CD pipelines with Jenkins, BASH, and Python. I then containerized this system as a microservice for on-demand execution via API requests, integrating it into our Kubernetes-based cloud environment. This reduced manual work by over 5 hours and enabled algorithm teams to self-evaluate efficiently."
+  - title: "Front End Developer"
+    company: "Tenders2Bid"
+    duration: "2020-2021"
+    description: "Collaboratively, I worked with a global team to develop and extend a bidding web platform. I implemented features and functionalities using ReactJS (React Router and Redux), REST APIs, SASS, and JSON. I conducted bug fixes, performed code reviews, and maintained code quality. I played a key role in enhancing the platform's user experience."
+  - title: "Front End Developer"
+    company: "DTran"
+    duration: "2020"
+    description: "During my tenure at Tenders2Bid, I converted design pages and components into web implementations using HTML, CSS, and JavaScript. Additionally, I analyzed UI/UX designs to ensure responsive layouts, enhancing usability and user experience. This involved meticulous attention to detail and a strong understanding of front-end development and design principles."
+
+#List of edcuation
+education: 
+  - school_name: "Ontario Tech University"
+    duration: "2018-2023"
+    degree: "Bachelor of Science"
+    department: "Computer Science"
+    # optional
+    awards_achievements:
+      - "GPA: 3.9/4.3"
+
+#Optional section
+others:
+  - title: "Activities/Hobbies"
+    bullets:
+      - "I am a Volleyball player."
+      - "I am an experienced and certified swimmer."
+      - "I enjoy learning about nature and climate change."

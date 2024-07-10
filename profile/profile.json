@@ -1,0 +1,107 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "GPA: 3.9/4.3"
+      ],
+      "degree": "Bachelor of Science",
+      "department": "Computer Science",
+      "duration": "2018-2023",
+      "school_name": "Ontario Tech University"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_TirthPatel",
+  "highlighted_projects": [
+    {
+      "description": "Created a personalized job search tool developed to streamline the process of finding relevant job postings for job seekers. This Spring Boot application leverages the power of Large Language Models (OpenAI), JSoup web scraping, and MySQL to automate the job search process by fetching, ranking, and storing job listings that match the user's profile and preferences. This automation reduced the time job seekers manually spend filtering relevant job postings, allowing them to get more throughput while applying.",
+      "git_url": "https://github.com/dev-tirth14/HireVis",
+      "name": "HireVis"
+    },
+    {
+      "description": "Spearheaded the implementation of a social media Android application for event finders and organizers. Registered users can host events or find local events using the interactive map view that they can RSVP themselves for. To create this application, I used Flutter, Firebase for the backend and database, and the Google Maps API. This application aims to bring the community together and increase the number of local activities for residents.",
+      "git_url": "https://github.com/dev-tirth14/Rendezvous",
+      "name": "Rendezvous"
+    },
+    {
+      "description": "Implemented a web application for tracking everyday expenses. This application was created using a ReactJS front end, including React Router and Redux, and a Firebase back end. Users are able to monitor their everyday expenses better, helping them get more transparency and control over their spending habits.",
+      "git_url": "https://github.com/dev-tirth14/Expensify",
+      "name": "Expensify"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Implemented an automation tool to help Linux Cluster Administration teams monitor hardware specifications and resource usage information of the nodes and servers within their Linux clusters. The collected data is stored in a database, enabling efficient storage and retrieval. The technologies used to implement this solution include Bash scripting, PostgreSQL, Docker, and Git. This solution supports informed decision-making for resource planning, ensuring optimal performance and scalability of the cluster.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    },
+    {
+      "description": "This project serves to demonstrate the use of SQL to gain valuable insights from the data saved on RDBMS instances. Developers and BSA can use this tool to practice building efficient queries, that extracts valuable data for their reports or software applications. The technologies used in this project include Docker, PostgreSQL, Git, Bash.",
+      "git_url": "/sql",
+      "name": "RDBMS"
+    }
+  ],
+  "name": "Tirth Patel",
+  "others": [
+    {
+      "bullets": [
+        "I am a Volleyball player.",
+        "I am an experienced and certified swimmer.",
+        "I enjoy learning about nature and climate change."
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "IBM",
+      "description": "Automated our AI algorithm evaluation process, crucial to our product suite, by creating CI/CD pipelines with Jenkins, BASH, and Python. I then containerized this system as a microservice for on-demand execution via API requests, integrating it into our Kubernetes-based cloud environment. This reduced manual work by over 5 hours and enabled algorithm teams to self-evaluate efficiently.",
+      "duration": "2021-2022",
+      "title": "MLOps Engineer"
+    },
+    {
+      "company": "Tenders2Bid",
+      "description": "Collaboratively, I worked with a global team to develop and extend a bidding web platform. I implemented features and functionalities using ReactJS (React Router and Redux), REST APIs, SASS, and JSON. I conducted bug fixes, performed code reviews, and maintained code quality. I played a key role in enhancing the platform's user experience.",
+      "duration": "2020-2021",
+      "title": "Front End Developer"
+    },
+    {
+      "company": "DTran",
+      "description": "During my tenure at Tenders2Bid, I converted design pages and components into web implementations using HTML, CSS, and JavaScript. Additionally, I analyzed UI/UX designs to ensure responsive layouts, enhancing usability and user experience. This involved meticulous attention to detail and a strong understanding of front-end development and design principles.",
+      "duration": "2020",
+      "title": "Front End Developer"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Jenkins",
+      "Flutter",
+      "Dart",
+      "Docker",
+      "Kubernetes",
+      "Openshift",
+      "NodeJS",
+      "Postman"
+    ],
+    "familiar": [
+      "GraphQL",
+      "FastAPI",
+      "Kafka",
+      "TravisCI",
+      "ArgoCD",
+      "Amazon S3"
+    ],
+    "proficient": [
+      "Java",
+      "Spring Boot",
+      "Python",
+      "Linux/Bash",
+      "Javascript",
+      "ReactJS",
+      "RDBMS/SQL",
+      "NoSQL",
+      "Agile/Scrum",
+      "Git"
+    ]
+  },
+  "summary": "I am a recent computer science graduate from Ontario Tech University with a passion for using technology to help others. I have around two years of software development industry experience from various contract and internship opportunities in both startup and corporate environments. These opportunities, along with my curiosity to learn new technologies has helped me gain skills in multiple areas within software development, including web development, mobile development, cloud computing, DevOps, and artificial intelligence. I use these skills to focus on projects and work experiences that prioritize helping others and enhance their lives by solving their problems."
+}
