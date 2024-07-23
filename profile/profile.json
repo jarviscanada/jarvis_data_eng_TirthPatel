@@ -38,6 +38,11 @@
       "description": "This project serves to demonstrate the use of SQL to gain valuable insights from the data saved on RDBMS instances. Developers and BSA can use this tool to practice building efficient queries, that extracts valuable data for their reports or software applications. The technologies used in this project include Docker, PostgreSQL, Git, Bash.",
       "git_url": "/sql",
       "name": "RDBMS"
+    },
+    {
+      "description": "This project serves to demonstrate the implementation of a simple back end insurance application. Insurance companies use such applications to manage their data, which can be used to extract valuable insights for their business needs. Users can use this Spring Boot application through various API endpoints, depending on the use case. All data is saved on a MongoDB NoSQL instance. The technologies used to implement this application include Spring Boot, MongoDB, and Postman (testing API endpoints). ",
+      "git_url": "/no_sql_mongoDB",
+      "name": "No SQL (MongoDB)"
     }
   ],
   "name": "Tirth Patel",
