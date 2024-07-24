@@ -59,7 +59,7 @@
   "professional_experience": [
     {
       "company": "IBM",
-      "description": "Automated our AI algorithm evaluation process, crucial to our product suite, by creating CI/CD pipelines with Jenkins, BASH, and Python. I then containerized this system as a microservice for on-demand execution via API requests, integrating it into our Kubernetes-based cloud environment. This reduced manual work by over 5 hours and enabled algorithm teams to self-evaluate efficiently.",
+      "description": "Automated our AI algorithm evaluation process, crucial to our product suite, by creating CI/CD pipelines with Jenkins, BASH, and Python. I then containerized this system as a microservice for on-demand execution via API requests, integrating it into our Kubernetes-based cloud environment. This reduced manual work by over 10 hours/week and enabled algorithm teams to self-evaluate efficiently.",
       "duration": "2021-2022",
       "title": "MLOps Engineer"
     },
