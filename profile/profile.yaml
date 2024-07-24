@@ -83,7 +83,7 @@ professional_experience:
   - title: "MLOps Engineer"
     company: "IBM"
     duration: "2021-2022"
-    description: "Automated our AI algorithm evaluation process, crucial to our product suite, by creating CI/CD pipelines with Jenkins, BASH, and Python. I then containerized this system as a microservice for on-demand execution via API requests, integrating it into our Kubernetes-based cloud environment. This reduced manual work by over 5 hours and enabled algorithm teams to self-evaluate efficiently."
+    description: "Automated our AI algorithm evaluation process, crucial to our product suite, by creating CI/CD pipelines with Jenkins, BASH, and Python. I then containerized this system as a microservice for on-demand execution via API requests, integrating it into our Kubernetes-based cloud environment. This reduced manual work by over 10 hours/week and enabled algorithm teams to self-evaluate efficiently."
   - title: "Front End Developer"
     company: "Tenders2Bid"
     duration: "2020-2021"
