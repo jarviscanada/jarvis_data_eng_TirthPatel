@@ -28,6 +28,6 @@ insert_stmt="INSERT INTO host_info (hostname, cpu_number, cpu_architecture, cpu_
 
 # Run the insert command on the database using the psql cli
 export PGPASSWORD=$psql_password
-psql -h localhost -U postgres -d host_agent -c "$insert_stmt"
+psql -h $psql_host -U $psql_user -d $db_name -c "$insert_stmt"
 
 exit $?
